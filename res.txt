@@ -1,0 +1,2 @@
+open file from path: ./ successfully
+hit_accuracy of 0.886799
